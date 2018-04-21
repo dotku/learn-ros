@@ -10,6 +10,6 @@ Saving time on the general Operation System design
 
 3. Moduleization in Mind
 4. Mordern Tech Ready
-  1. Machine Learning (Tenderflow, Caffe)
-  2. ASR/Visial Ready
-  3. Machanical Controls
+    1. Machine Learning (Tenderflow, Caffe)
+    2. ASR/Visial Ready
+    3. Machanical Controls
